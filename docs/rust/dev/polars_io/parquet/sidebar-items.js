@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ParallelStrategy","ParquetCompression"],"fn":["materialize_empty_df"],"mod":["predicates"],"struct":["BatchedParquetReader","BatchedWriter","BrotliLevel","FileMetaData","GzipLevel","ParquetAsyncReader","ParquetOptions","ParquetReader","ParquetWriteOptions","ParquetWriter","ZstdLevel"],"type":["FileMetaDataRef","RowGroupIter"]};
